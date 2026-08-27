@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*~
+/.cache
+*.log
+.DS_Store
+
+docs/
